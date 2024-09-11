@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adyvka Pratama</h1>
-<h3 align="center">A passionate website developer from Indonesia</h3>
+<h3 align="center">A passionate website developer 👨🏻‍💻 from Indonesia 🇮🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adyvka31&label=Profile%20views&color=0e75b6&style=flat" alt="adyvka31" /> </p>
 - 🌱 I’m currently learning **HTML, CSS, Javascript, PHP, MySQL**
 
 - 👨‍💻 All of my projects are available at [adyvkapratama.my.id](adyvkapratama.my.id)
