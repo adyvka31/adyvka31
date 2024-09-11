@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Course Web](https://idncourse.netlify.app/)
-
 - 🌱 I’m currently learning **HTML, CSS, Javascript, PHP, MySQL**
 
 - 👨‍💻 All of my projects are available at [adyvkapratama.my.id](adyvkapratama.my.id)
