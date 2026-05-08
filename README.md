@@ -1,23 +1,28 @@
 <div align="center">
-  <h1 align="center">Halo, Saya Rafif Sava Adyvka Pratama 👋</h1>
+  <h1 align="center">Hi, I'm Rafif Sava Adyvka Pratama 👋</h1>
+  <p align="center">
+    <strong>Full Stack Engineer | Web & Mobile Developer</strong>
+  </p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/adyvka-pratama"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:rafifdyvka07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
 </div>
 
----
+### 👨‍💻 About Me
 
-### 👨‍💻 Tentang Saya
+I am a passionate **Full Stack Engineer** dedicated to designing and developing scalable, secure, and efficient web and mobile applications. Experienced in system architecture (such as *Clean Architecture* and SOLID principles), building RESTful APIs, real-time database integration, and CI/CD pipelines. 
 
-Saya adalah seorang **Full Stack Engineer** yang antusias dalam merancang dan mengembangkan aplikasi web dan mobile yang *scalable*, aman, dan efisien. Berpengalaman dalam arsitektur sistem (seperti *Clean Architecture* dan prinsip SOLID), pembuatan RESTful API, integrasi *real-time database*, hingga proses CI/CD. 
+Currently, I am a student at **SMK IDN Boarding School** while actively developing digital solutions, ranging from ERP systems to *e-commerce* applications.
 
-Saat ini, saya sedang menempuh pendidikan di **SMK IDN Boarding School** sekaligus aktif mengembangkan solusi digital, mulai dari sistem ERP (*Enterprise Resource Planning*) hingga aplikasi *e-commerce*.
-
-* 🔭 **Saat ini sedang bekerja sebagai:** Software Engineer di PT Intisel Prodaktifakom (Mengembangkan Databank ERP System dengan React, NestJS, PostgreSQL).
-* 🌱 **Sedang mendalami:** Arsitektur Cloud (AWS/Docker), Keamanan Web (OWASP), dan pengembangan AI Generatif.
-* 🏆 **Pencapaian terbaru:** Juara 1 National Web Design Competition (Icomfest 2025) & Lulusan CS50 Harvard University.
-* ⚡ **Fakta menarik:** Selain *coding*, saya juga aktif menjadi instruktur *web/mobile development* untuk siswa SMA dan SMP, serta senang mempelajari matematika cepat.
+* 🔭 **Currently working as:** Software Engineer at PT Intisel Prodaktifakom (Developing the Databank ERP System using React, NestJS, and PostgreSQL).
+* 🌱 **Currently learning:** Cloud Architecture (AWS/Docker), Web Security (OWASP), and Generative AI development.
+* 🏆 **Recent achievements:** 1st Place at the National Web Design Competition (Icomfest 2025) & Harvard University CS50 Graduate.
+* ⚡ **Fun fact:** I enjoy practicing mental math shortcuts and volunteering as a tech instructor.
 
 ---
 
-### 🛠️ Tech Stack & Alat
+### 🛠️ Tech Stack & Tools
 
 **Frontend & Mobile**
 <p>
@@ -37,7 +42,7 @@ Saat ini, saya sedang menempuh pendidikan di **SMK IDN Boarding School** sekalig
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
 </p>
 
-**Infrastruktur & Alat**
+**Infrastructure & Tools**
 <p>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -47,14 +52,17 @@ Saat ini, saya sedang menempuh pendidikan di **SMK IDN Boarding School** sekalig
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adyvka31&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adyvka31&theme=radical" alt="GitHub Stats" height="190">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adyvka31&theme=radical" alt="Top Languages" height="190">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adyvka31&theme=radical&hide_border=true" alt="GitHub Streak" width="98%">
+</div>
 
 ---
+
 <div align="center">
   <i>"Writing clean code is what you must do in order to call yourself a professional."</i> <br>
-  <b>Ayo terhubung dan bangun sesuatu yang luar biasa bersama-sama!</b>
+  <b>Let's connect and build something amazing together!</b>
 </div>
