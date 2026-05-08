@@ -51,8 +51,8 @@ Currently, I am a student at **SMK IDN Boarding School** while actively developi
 ### 📊 GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adyvka31&theme=radical" alt="GitHub Stats" height="130">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adyvka31&theme=radical" alt="Top Languages" height="130">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adyvka31&theme=radical" alt="GitHub Stats" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adyvka31&theme=radical" alt="Top Languages" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adyvka31&theme=radical&hide_border=true" alt="GitHub Streak" width="98%">
 </div>
 
