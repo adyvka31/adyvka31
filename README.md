@@ -5,8 +5,6 @@
   </p>
 </div>
 
-### 👨‍💻 About Me
-
 I am a passionate **Full Stack Engineer** dedicated to designing and developing scalable, secure, and efficient web and mobile applications. Experienced in system architecture (such as *Clean Architecture* and SOLID principles), building RESTful APIs, real-time database integration, and CI/CD pipelines. 
 
 Currently, I am a student at **SMK IDN Boarding School** while actively developing digital solutions, ranging from ERP systems to *e-commerce* applications.
