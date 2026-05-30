@@ -3,6 +3,14 @@
   <p align="center">
     <strong>Full Stack Engineer | Web & Mobile Developer</strong>
   </p>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/adyvka-pratama/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://adyvka-pratama.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 </div>
 
 I am a passionate **Full Stack Engineer** dedicated to designing and developing scalable, secure, and efficient web and mobile applications. Experienced in system architecture (such as *Clean Architecture* and SOLID principles), building RESTful APIs, real-time database integration, and CI/CD pipelines. 
